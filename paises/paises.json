@@ -243,6 +243,10 @@
         "nombre": "Dominica"
     },
     {
+        "codigo": "GB-SCT",
+        "nombre": "Escocia"
+    },
+    {
         "codigo": "EC",
         "nombre": "Ecuador"
     },
@@ -313,6 +317,10 @@
     {
         "codigo": "GA",
         "nombre": "Gabon"
+    },
+    {
+        "codigo": "GB-WLS",
+        "nombre": "Gales"
     },
     {
         "codigo": "GM",
@@ -417,6 +425,10 @@
     {
         "codigo": "IE",
         "nombre": "Irlanda"
+    },
+    {
+        "codigo": "GB-NIR",
+        "nombre": "Irlanda del Norte"
     },
     {
         "codigo": "IS",
